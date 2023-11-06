@@ -1,5 +1,5 @@
 # ivedamas kaicius rasti to skaiciaus skaitmenu suma..
-def sumavimas(skaicius):
+def sumavimas(sk):
     suma=0
     while sk > 0:
         x1 = sk % 10
