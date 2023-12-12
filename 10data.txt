@@ -1,0 +1,7 @@
+vartotojas ivede skaiciu 5
+sk1 = 2
+sk2 = 3
+sk3 = 4
+sk4 = 5
+sk5 = 6
+suma = 20

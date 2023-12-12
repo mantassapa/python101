@@ -1,0 +1,61 @@
+Zaideju vardai: Mantas ir Jonas
+Lazdeliu pasirinktas skaicius yra 12
+zaidima pradeda Mantas
+Mantas paima 3 lazdeles. Liko 9
+Jonas paima 3 lazdeles. Liko 6
+Mantas paima 2 lazdeles. Liko 4
+Jonas paima 3 lazdeles. Liko 1
+Mantas paima 1 lazdeles. Liko 0
+ laiejo zaidma Jonas
+Zaideju vardai: man ir tas
+Lazdeliu pasirinktas skaicius yra 12
+zaidima pradeda tas
+tas paima 3 lazdeles. Liko 9
+man paima 3 lazdeles. Liko 6
+tas paima 2 lazdeles. Liko 4
+man paima 3 lazdeles. Liko 1
+tas paima 1 lazdeles. Liko 0
+ laiejo zaidma man
+Zaideju vardai: mantas ir tas
+Lazdeliu pasirinktas skaicius yra 12
+zaidima pradeda mantas
+mantas paima 3 lazdeles. Liko 9
+tas paima 3 lazdeles. Liko 6
+mantas paima 2 lazdeles. Liko 4
+tas paima 3 lazdeles. Liko 1
+mantas paima 1 lazdeles. Liko 0
+ laiejo zaidma tas
+Zaideju vardai: man ir tas
+Lazdeliu pasirinktas skaicius yra 12
+zaidima pradeda tas
+tas paima 3 lazdeles. Liko 9
+man paima 3 lazdeles. Liko 6
+tas paima 3 lazdeles. Liko 3
+man paima 3 lazdeles. Liko 0
+ laimejo zaidima tas
+Zaideju vardai: mantas ir tas
+Lazdeliu pasirinktas skaicius yra 12
+zaidima pradeda mantas
+mantas paima 3 lazdeles. Liko 9
+tas paima 3 lazdeles. Liko 6
+mantas paima 3 lazdeles. Liko 3
+tas paima 3 lazdeles. Liko 0
+ laimejo zaidima mantas
+Zaideju vardai: mantas ir jonas
+Lazdeliu pasirinktas skaicius yra 12
+zaidima pradeda mantas
+mantas paima 3 lazdeles. Liko 9
+jonas paima 3 lazdeles. Liko 6
+mantas paima 3 lazdeles. Liko 3
+jonas paima 3 lazdeles. Liko 0
+ laimejo zaidima mantas
+Zaideju vardai: mantas ir jonas
+Lazdeliu pasirinktas skaicius yra 12
+zaidima pradeda jonas
+jonas paima 3 lazdeles. Liko 9
+mantas paima 3 lazdeles. Liko 6
+jonas paima 3 lazdeles. Liko 3
+mantas paima 3 lazdeles. Liko 0
+ laimejo zaidima jonas
+Į užklausą „Ar žaisite dar“ pasirinko „Ne“
+Žaidimąžaidė 2 kartą(us)
