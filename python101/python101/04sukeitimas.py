@@ -1,0 +1,12 @@
+bokalas = 'pienas'
+puodelis = 'alus'
+print('bokalas = ', bokalas)
+print('Puodelis = ', puodelis)
+# pudas = puodelis
+# puodelis = bokalas
+# bokalas = puodas
+# print('bokalas = ', bokalas)
+# print('Puodelis = ', puodelis)
+bokalas, puodelis = puodelis, bokalas
+print('bokalas = ', bokalas)
+print('Puodelis = ', puodelis)
